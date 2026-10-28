@@ -1,5 +1,5 @@
-const version = "11.1.1";
-const owner = "ElyPrismLauncher";
+const version = "12.0.0";
+const owner = "PineconeMC";
 const repo = "Launcher";
 
 function detectOS() {

@@ -7,6 +7,8 @@
     --black-3: hsl(0, 0%, 16%);
     --green-1: hsl(100, 30%, 15%);
     --yellow-1: hsl(40, 30%, 15%);
+    --yellow-2: hsl(40, 75%, 25%);
+    --yellow-3: hsl(40, 75%, 50%);
     --red-1: hsl(0, 30%, 15%);
     --blue-1: hsl(200, 30%, 15%);
 }
@@ -19,6 +21,12 @@ body {
     padding-top: 64px;
     font-family: "Google Sans", sans-serif;
     color: hsl(0, 0%, 100%);
+}
+
+/* multi-purpose class very handy and stuff */
+.disabled {
+    color: var(--white-3);
+    filter: saturate(0);
 }
 
 div.center {
@@ -198,6 +206,13 @@ img.how {
     margin-bottom: -2px;
 }
 
+img.inline-icon {
+    height: 16px;
+    margin-bottom: -2px;
+    padding-right: 4px;
+    filter: invert(1);
+}
+
 button.icon-only {
     height: 64px;
     width: 64px;
@@ -326,13 +341,12 @@ button:disabled img {
 }
 
 .formerly {
-    color: var(--white-2);
     margin-top: -16px;
     margin-bottom: 32px;
 }
 
 .focus {
-    margin-top: 64px;
+    margin-top: 20px;
 }
 
 .focus > img {
@@ -387,4 +401,29 @@ img.focus-logo {
 
 .message-footer > span {
     font-size: small;
+}
+
+.background-block, .background-block-warning {
+    padding: 20px;
+    border-radius: 16px;
+}
+
+.background-block {
+    background-color: var(--black-2);
+}
+
+.background-block-warning {
+    background-color: var(--yellow-2);
+    border-color: var(--yellow-3) !important;
+    margin-top: 40px !important;
+}
+
+.background-block-warning img.big {
+    height: 24px;
+    filter: brightness(0) invert(1);
+}
+
+.background-block-warning img.small {
+    height: 16px;
+    margin-bottom: -2px;
 }

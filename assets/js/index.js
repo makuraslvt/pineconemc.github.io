@@ -1,4 +1,4 @@
-const pinecone_version = get_release_version("ElyPrismLauncher", "Launcher")
+const pinecone_version = get_release_version("PineconeMC", "Launcher")
     .then(x => manipulate_element(x, "pinecone-version"));
 const freesm_version = get_release_version("FreesmTeam", "FreesmLauncher")
     .then(x => manipulate_element(x, "freesm-version"));

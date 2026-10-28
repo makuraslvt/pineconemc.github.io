@@ -9,7 +9,7 @@
     <rights>AGPL-3.0</rights>
     <entry>
         <title type="html"><![CDATA[PineconeMC 11.1.1 is out]]></title>
-        <id>https://github.com/ElyPrismLauncher/Launcher/releases/tag/11.1.1</id>
+        <id>https://github.com/PineconeMC/Launcher/releases/tag/11.1.1</id>
         <link href="https://pineconemc.ru"/>
         <updated>2026-09-29T15:52:00.000Z</updated>
         <summary type="html"><![CDATA[oops]]></summary>
@@ -22,7 +22,7 @@
     </entry>  
     <entry>
         <title type="html"><![CDATA[PineconeMC 11.1.0 is out]]></title>
-        <id>https://github.com/ElyPrismLauncher/Launcher/releases/tag/11.1.0</id>
+        <id>https://github.com/PineconeMC/Launcher/releases/tag/11.1.0</id>
         <link href="https://pineconemc.ru"/>
         <updated>2026-09-04T14:53:00.000Z</updated>
         <summary type="html"><![CDATA[He is, indeed, makuraslvt]]></summary>
@@ -37,7 +37,7 @@
     </entry>    
     <entry>
         <title type="html"><![CDATA[Beware of fake websites!]]></title>
-        <id>https://github.com/ElyPrismLauncher/Launcher/releases/tag/11.0.2</id>
+        <id>https://github.com/PineconeMC/Launcher/releases/tag/11.0.2</id>
         <link href="https://pineconemc.ru"/>
         <updated>2026-06-20T17:26:00.000Z</updated>
         <summary type="html"><![CDATA[There are more and more fake websites pretending to be PineconeMC]]></summary>
@@ -48,7 +48,7 @@
 <p>Please remember that these are the <strong>only</strong> official websites:</p>
 <ul>
 <li><a href="https://pineconemc.ru">https://pineconemc.ru</a></li>
-<li><a href="https://elyprismlauncher.github.io">https://elyprismlauncher.github.io</a></li>
+<li><a href="https://pineconemc.github.io">https://pineconemc.github.io</a></li>
 </ul>
 <br>
 <p>To protect yourself, <strong>always</strong> double-check the links you're opening (even if they're at the top of search results) and make sure you use an adblocker like "uBlock Origin".</p>
@@ -56,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[IMPORTANT] PineconeMC 11.0.2 is out]]></title>
-        <id>https://github.com/ElyPrismLauncher/Launcher/releases/tag/11.0.2</id>
-        <link href="https://github.com/ElyPrismLauncher/Launcher/releases/tag/11.0.2"/>
+        <id>https://github.com/PineconeMC/Launcher/releases/tag/11.0.2</id>
+        <link href="https://github.com/PineconeMC/Launcher/releases/tag/11.0.2"/>
         <updated>2026-04-12T18:27:00.000Z</updated>
         <summary type="html"><![CDATA[Fixes an important updater bug]]></summary>
         <content type="html"><![CDATA[
@@ -78,8 +78,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[PineconeMC 11.0.0 (stable) is out]]></title>
-        <id>https://github.com/ElyPrismLauncher/Launcher/releases/tag/11.0.0</id>
-        <link href="https://github.com/ElyPrismLauncher/Launcher/releases/tag/11.0.0"/>
+        <id>https://github.com/PineconeMC/Launcher/releases/tag/11.0.0</id>
+        <link href="https://github.com/PineconeMC/Launcher/releases/tag/11.0.0"/>
         <updated>2026-04-04T10:57:00.000Z</updated>
         <summary type="html"><![CDATA[Out of beta!]]></summary>
         <content type="html"><![CDATA[
@@ -100,8 +100,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[PineconeMC 11.0.0-pre2 is out]]></title>
-        <id>https://github.com/ElyPrismLauncher/Launcher/releases/tag/11.0.0-pre2</id>
-        <link href="https://github.com/ElyPrismLauncher/Launcher/releases/tag/11.0.0-pre2"/>
+        <id>https://github.com/PineconeMC/Launcher/releases/tag/11.0.0-pre2</id>
+        <link href="https://github.com/PineconeMC/Launcher/releases/tag/11.0.0-pre2"/>
         <updated>2026-04-04T10:57:00.000Z</updated>
         <summary type="html"><![CDATA[Now works everywhere out of the box!]]></summary>
         <content type="html"><![CDATA[
@@ -125,8 +125,8 @@ Important issues solved upstream:</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[ElyPrismLauncher is rebranding]]></title>
-        <id>https://github.com/ElyPrismLauncher/Launcher/releases</id>
-        <link href="https://github.com/ElyPrismLauncher/Launcher/releases"/>
+        <id>https://github.com/PineconeMC/Launcher/releases</id>
+        <link href="https://github.com/PineconeMC/Launcher/releases"/>
         <updated>2026-02-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Now we're PineconeMC!]]></summary>
         <content type="html"><![CDATA[<p>As you (hopefully) already know, ElyPrismLauncher is a fork of Prism Launcher. Not an original name for a fork, is it. It doesn&#39;t stand out and causes confusion between this fork and the original.</p><p>
